@@ -27,6 +27,7 @@ st.sidebar.markdown("""
 A minimal FastAPI project that responds with greetings and redirects.
 
 **Author:** Priyanka Koul
+
 [🌐 GitHub](https://github.com/PriyankaKoul001/first-fastapi-with-frontend)  
 [🔗 LinkedIn](https://www.linkedin.com/in/priyanka-koul-a5b1a5361/)  
 
@@ -126,4 +127,5 @@ if user_input:
             st.session_state.chat_history[-1] = ("Bot", bot_reply)
         else:
             st.markdown(f"**{sender}:** {message}")
+
 
