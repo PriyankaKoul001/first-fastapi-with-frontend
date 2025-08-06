@@ -43,7 +43,7 @@ Meet the creator.
 
 ```json
 {
-  "message": "This API Belong to Master Aryan.....😀"
+  "message": "This API Belong to Master Priyanka.....😀"
 }
 ```
 
@@ -97,7 +97,7 @@ Once running, open your browser:
 
 ## 👑 Author
 
-Built with 💻 and 😄 by **Master Aryan**
+Built with 💻 and 😄 by **Master Priyanka**
 
 ---
 
@@ -125,3 +125,4 @@ starlette==0.47.2
 typing-inspection==0.4.1
 typing_extensions==4.14.1
 uvicorn==0.35.0
+
