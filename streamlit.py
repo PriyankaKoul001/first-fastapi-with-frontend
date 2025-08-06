@@ -9,7 +9,7 @@ def open_link(url):
 st.set_page_config(page_title="Priyanka's FastAPI App", page_icon="⚡")
 
 # ----------------- Constants -----------------
-API_BASE = ""
+API_BASE = "https://first-fastapi-with-frontend.onrender.com/"
 
 DUMMY_QUESTIONS = [
     "Who created this project?",
@@ -126,3 +126,4 @@ if user_input:
             st.session_state.chat_history[-1] = ("Bot", bot_reply)
         else:
             st.markdown(f"**{sender}:** {message}")
+
